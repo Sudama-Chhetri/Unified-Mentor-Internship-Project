@@ -1,51 +1,51 @@
-Unified Mentor Internship Project
-Hi! This repository contains the work I completed as part of my internship with Unified Mentor.
+# 🎓 Unified Mentor Internship Project
 
-📌 Project Overview
-During the internship, I worked on two main datasets and applied data analysis techniques using Python and SQL:
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![SQL](https://img.shields.io/badge/SQL-MySQL-informational)
+![Platform](https://img.shields.io/badge/Platform-GitHub-lightgrey)
 
-1. Daily Household Transactions
-Cleaned and processed a real-world transaction dataset.
+Hi! 👋  
+This repository contains the projects I completed during my internship with **Unified Mentor**. The internship provided me with the opportunity to work on real-world datasets and apply my data analysis skills using Python and SQL.
 
-Performed exploratory data analysis using Pandas, Matplotlib, and Seaborn.
+---
 
-Identified trends, spending patterns, and categorized expenses to draw actionable insights.
+## 📌 Project Overview
 
-2. Electric Vehicle Sales Analysis
-Analyzed EV sales data using Python and SQL.
+### 1. 💰 Daily Household Transactions
+- Cleaned and explored a household transaction dataset.
+- Used **Pandas**, **Matplotlib**, and **Seaborn** for data manipulation and visualization.
+- Extracted insights on spending patterns, categories, and trends.
 
-Wrote SQL queries to extract meaningful metrics and sales patterns from the database.
+### 2. 🚗 Electric Vehicle Sales Analysis
+- Worked on electric vehicle (EV) sales data across Indian states.
+- Used **SQL (MySQL Workbench)** to query, filter, and analyze the dataset.
+- Used **Python** to visualize sales growth and compare state-wise adoption rates.
 
-Visualized insights to better understand the growth and adoption of electric vehicles.
+---
 
-🛠️ Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn)
+## 🛠️ Tools & Technologies
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MySQL)
+- **Jupyter Notebook**
 
-SQL
+---
 
-Jupyter Notebook
+## 📁 Folder Structure
 
-📂 Folder Structure
-daily_transactions/ – Contains Python notebooks and datasets related to household transactions.
-
-ev_sales_analysis/ – Includes Python scripts and SQL queries for the electric vehicle project.
-
-Acknowledgements
-A big thanks to the Unified Mentor team for the guidance and opportunity to work on these insightful datasets. It was a valuable learning experience!
-
-
-
-
-
-
-
+├── daily_transactions/
+│ └── transaction_analysis.ipynb
+├── ev_sales_analysis/
+│ ├── ev_sales_analysis.ipynb
+│ └── ev_sales_queries.sql
 
 
-Do you like this personality?
+---
 
+## 🙌 Acknowledgements
+I would like to thank the **Unified Mentor** team for providing me with this internship opportunity and helping me improve my technical and analytical skills through these projects.
 
+---
 
-
-
+📬 **Feel free to explore the notebooks and reach out if you have any feedback!**
 
 
